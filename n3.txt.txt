@@ -1,0 +1,2147 @@
+#FUNCIONALIDAD
+##TOKEN
+###DEPENDENCIA
+depender
+necesitar
+obligatorio
+requisito
+imprescindible
+condiciona
+exige
+requiere
+obligado
+forzado
+requerido
+exigido
+impuesto
+indispensable
+fundamental
+esencial
+vital
+crucial
+primordial
+necesario
+insustituible
+irremplazable
+condicionado
+supeditado
+subordinado
+atado
+ligado
+vinculado
+condicionante
+determinante
+decisivo
+clave
+
+###NO FUNCIONA
+no funciona
+falla
+error
+no sirve
+averiado
+defectuoso
+inoperante
+inservible
+no sirve
+falla
+error
+averiado
+defectuoso
+malo
+dañado
+roto
+estropeado
+deteriorado
+malogrado
+inutilizable
+inutilizado
+inservible
+inoperante
+descompuesto
+arruinado
+desactivado
+bloqueado
+deshabilitado
+limitado
+restringido
+impedido
+imposibilitado
+error
+falla sistema
+falla token
+error token
+error activacion
+problema token
+inconveniente
+obstaculo
+contratiempo
+dificultad
+impedimento
+complicacion
+no procesa
+no valida
+no verifica
+no autentica
+no confirma
+no reconoce
+no acepta
+no permite
+no deja
+
+###NO PUEDE ACTIVAR
+no activa
+falla activación
+error configuración
+problema activar
+imposible activar
+rechaza
+falla registro
+activación fallida
+no puedo activar
+no logro activar
+no consigo activar
+no permite activar
+no deja activar
+intento activar
+trate activar
+imposible configurar
+problema configuracion
+rechaza activacion
+niega activacion
+impide activacion
+activacion incorrecta
+error validacion
+error verificacion
+proceso incompleto
+no completa
+interrumpe
+cancela
+invalida
+rechaza
+deniega
+invalida
+anula
+no reconoce
+no identifica
+no verifica
+no valida
+no autentica
+no permite
+no procesa
+no registra
+
+###INESTABILIDAD
+inestable
+intermitente
+falla
+inconsistente
+variable
+irregular
+impredecible
+fluctuante
+voluble
+cambiante
+inconstante
+aleatorio
+fortuito
+arbitrario
+esporadico
+eventual
+ocasional
+circunstancial
+temporal
+momentaneo
+pasajero
+transitorio
+incierto
+indeterminado
+dudoso
+inseguro
+precario
+vulnerable
+fragil
+debil
+endeble
+deficiente
+defectuoso
+imperfecto
+fallido
+erroneo
+falla
+falla sistema
+falla app
+falla aplicacion
+falla plataforma
+error sistema
+error app
+error aplicacion
+error plataforma
+
+###TOKEN FISICO
+fisico
+material
+dispositivo
+aparato
+hardware
+tangible
+fisicamente
+token tarjeta
+token plastico
+token portatil
+token dispositivo
+token externo
+token fisico
+token adicional
+token separado
+token independiente
+token personal
+token individual
+token unico
+token propio
+dispositivo fisico
+dispositivo externo
+dispositivo adicional
+dispositivo separado
+dispositivo independiente
+dispositivo personal
+dispositivo individual
+dispositivo unico
+dispositivo propio
+aparato token
+aparato generador
+aparato validador
+aparato autenticador
+aparato verificador
+hardware token
+hardware validador
+hardware autenticador
+hardware verificador
+objeto token
+
+##INESTABILIDAD
+###MANTENIMIENTO
+mantenimiento
+actualizacion
+soporte
+arreglos
+trabajando
+mejoras
+reparacion
+no disponible
+trabajos
+labores
+tareas
+actividades
+operaciones
+procesos
+procedimientos
+intervenciones
+mantenimiento programado
+mantenimiento planificado
+mantenimiento preventivo
+mantenimiento correctivo
+mantenimiento sistema
+mantenimiento red
+mantenimiento servidor
+mantenimiento plataforma
+mantenimiento aplicacion
+mantenimiento app
+actualizacion sistema
+actualizacion version
+actualizacion software
+actualizacion programa
+actualizacion plataforma
+actualizacion aplicacion
+actualizacion app
+mejora sistema
+mejora version
+mejora software
+mejora programa
+mejora plataforma
+mejora aplicacion
+mejora app
+reparacion sistema
+reparacion error
+reparacion falla
+reparacion problema
+reparacion bugs
+reparacion fallas
+no disponible
+fuera servicio
+fuera linea
+desconectado
+deshabilitado
+inaccesible
+
+###CAIDA DE SISTEMA
+caida
+apagon
+desconexion
+fallo total
+interrupcion
+no responde
+colapso
+sistema caido
+caida sistema
+caida aplicacion
+caida app
+caida plataforma
+caida servidor
+caida red
+caida servicio
+caida conexion
+caida total
+apagon digital
+apagon sistema
+apagon servidor
+apagon servicio
+desconexion sistema
+desconexion aplicacion
+desconexion app
+desconexion plataforma
+desconexion servidor
+desconexion red
+desconexion servicio
+desconexion total
+interrupcion sistema
+interrupcion aplicacion
+interrupcion app
+interrupcion plataforma
+interrupcion servidor
+interrupcion red
+interrupcion servicio
+interrupcion total
+colapso sistema
+colapso aplicacion
+colapso app
+colapso plataforma
+colapso servidor
+colapso red
+colapso servicio
+colapso total
+no responde
+no reacciona
+no funciona
+no opera
+no ejecuta
+no procesa
+no carga
+no inicia
+
+###LENTITUD
+lento
+despacio
+tarda
+demora
+congestionado
+pesado
+retardado
+ralentizado
+lenteja
+lentitud
+tardanza
+retraso
+dilacion
+espera
+pausa
+retardo
+demora
+letargo
+parsimonia
+morosidad
+lentitud extrema
+lentitud excesiva
+lentitud sistema
+lentitud aplicacion
+lentitud app
+lentitud plataforma
+lentitud red
+lentitud servicio
+lentitud conexion
+lentitud navegacion
+lentitud carga
+lentitud descarga
+lentitud procesamiento
+lentitud ejecucion
+lentitud respuesta
+demora excesiva
+demora prolongada
+demora constante
+demora frecuente
+demora habitual
+demora inusual
+demora sistema
+demora aplicacion
+demora app
+demora plataforma
+demora red
+demora servicio
+demora conexion
+demora navegacion
+demora carga
+demora descarga
+demora procesamiento
+demora ejecucion
+demora respuesta
+
+##OPERACIONES
+###DEMORA
+demora
+tarda
+lento
+retraso
+espera
+dilacion
+prolongado
+dilata
+demora operacion
+demora transaccion
+demora transferencia
+demora pago
+demora envio
+demora abono
+demora credito
+demora debito
+demora movimiento
+demora actualizacion
+tarda operacion
+tarda transaccion
+tarda transferencia
+tarda pago
+tarda envio
+tarda abono
+tarda credito
+tarda debito
+tarda movimiento
+tarda actualizacion
+retraso operacion
+retraso transaccion
+retraso transferencia
+retraso pago
+retraso envio
+retraso abono
+retraso credito
+retraso debito
+retraso movimiento
+retraso actualizacion
+espera operacion
+espera transaccion
+espera transferencia
+espera pago
+espera envio
+espera abono
+espera credito
+espera debito
+espera movimiento
+espera actualizacion
+
+###TRUNCA
+cobro doble
+trunca
+corta
+interrumpe
+cancela
+aborta
+incompleta
+suspende
+falla
+truncada
+cortada
+interrumpida
+cancelada
+abortada
+incompleta
+suspendida
+fallida
+truncada operacion
+truncada transaccion
+truncada transferencia
+truncada pago
+truncada envio
+truncada abono
+interrumpida operacion
+interrumpida transaccion
+interrumpida transferencia
+interrumpida pago
+interrumpida envio
+interrumpida abono
+cancelada operacion
+cancelada transaccion
+cancelada transferencia
+cancelada pago
+cancelada envio
+cancelada abono
+abortada operacion
+abortada transaccion
+abortada transferencia
+abortada pago
+abortada envio
+abortada abono
+operacion incompleta
+transaccion incompleta
+transferencia incompleta
+pago incompleto
+envio incompleto
+abono incompleto
+
+###NO PUEDE REALIZAR MONETARIAS
+no transferir
+no enviar
+no pagar
+no depositar
+transferencia fallida
+pago rechazado
+transaccion negada
+operacion denegada
+no puedo transferir
+no logro transferir
+no consigo transferir
+imposible transferir
+incapaz transferir
+fallo transferir
+error transferir
+problema transferir
+no permite transferir
+no deja transferir
+no puedo enviar
+no logro enviar
+no consigo enviar
+imposible enviar
+incapaz enviar
+fallo enviar
+error enviar
+problema enviar
+no permite enviar
+no deja enviar
+no puedo pagar
+no logro pagar
+no consigo pagar
+imposible pagar
+incapaz pagar
+fallo pagar
+error pagar
+problema pagar
+no permite pagar
+no deja pagar
+no puedo depositar
+no logro depositar
+no consigo depositar
+imposible depositar
+incapaz depositar
+fallo depositar
+error depositar
+problema depositar
+no permite depositar
+no deja depositar
+
+###NO PUEDE REALIZAR SERVICING
+no configura
+no actualiza
+no cambia
+no modifica
+no gestiona
+no administra
+no personaliza
+no ajusta
+no puedo configurar
+no logro configurar
+no consigo configurar
+imposible configurar
+incapaz configurar
+fallo configurar
+error configurar
+problema configurar
+no permite configurar
+no deja configurar
+no puedo actualizar
+no logro actualizar
+no consigo actualizar
+imposible actualizar
+incapaz actualizar
+fallo actualizar
+error actualizar
+problema actualizar
+no permite actualizar
+no deja actualizar
+no puedo cambiar
+no logro cambiar
+no consigo cambiar
+imposible cambiar
+incapaz cambiar
+fallo cambiar
+error cambiar
+problema cambiar
+no permite cambiar
+no deja cambiar
+no puedo modificar
+no logro modificar
+no consigo modificar
+imposible modificar
+incapaz modificar
+fallo modificar
+error modificar
+problema modificar
+no permite modificar
+no deja modificar
+
+###NO PUEDE REALIZAR CONSULTAS
+no consulta
+no muestra
+no visualiza
+no informa
+no detalla
+no reporta
+no presenta
+no exhibe
+no puedo consultar
+no logro consultar
+no consigo consultar
+imposible consultar
+incapaz consultar
+fallo consultar
+error consultar
+problema consultar
+no permite consultar
+no deja consultar
+no puedo ver
+no logro ver
+no consigo ver
+imposible ver
+incapaz ver
+fallo ver
+error ver
+problema ver
+no permite ver
+no deja ver
+no puedo visualizar
+no logro visualizar
+no consigo visualizar
+imposible visualizar
+incapaz visualizar
+fallo visualizar
+error visualizar
+problema visualizar
+no permite visualizar
+no deja visualizar
+no muestra saldo
+no muestra movimientos
+no muestra operaciones
+no muestra transacciones
+no muestra transferencias
+no muestra pagos
+no muestra depositos
+no muestra retiros
+
+###NO PUEDE REALIZAR NO ESPECIFICADO
+no puede
+imposible
+incapaz
+inhabilitado
+bloqueado
+restringido
+limitado
+impedido
+no puedo
+no logro
+no consigo
+imposible
+incapaz
+inhabilitado
+deshabilitado
+bloqueado
+restringido
+limitado
+impedido
+obstaculizado
+imposibilitado
+sin posibilidad
+sin capacidad
+sin opcion
+sin alternativa
+operacion fallida
+operacion denegada
+operacion rechazada
+operacion cancelada
+operacion bloqueada
+operacion restringida
+operacion limitada
+transaccion fallida
+transaccion denegada
+transaccion rechazada
+transaccion cancelada
+transaccion bloqueada
+transaccion restringida
+transaccion limitada
+transferencia fallida
+transferencia denegada
+transferencia rechazada
+transferencia cancelada
+transferencia bloqueada
+transferencia restringida
+transferencia limitada
+pago fallido
+pago denegado
+pago rechazado
+pago cancelado
+pago bloqueado
+pago restringido
+pago limitado
+
+##LOGIN
+###NO PUEDE INGRESAR
+no ingresa
+acceso negado
+entrada denegada
+bloqueo acceso
+impide ingreso
+rechaza login
+no reconoce
+autenticacion falla
+no puedo ingresar
+no logro ingresar
+no consigo ingresar
+imposible ingresar
+incapaz ingresar
+fallo ingresar
+error ingresar
+problema ingresar
+no permite ingresar
+no deja ingresar
+no puedo acceder
+no logro acceder
+no consigo acceder
+imposible acceder
+incapaz acceder
+fallo acceder
+error acceder
+problema acceder
+no permite acceder
+no deja acceder
+no puedo entrar
+no logro entrar
+no consigo entrar
+imposible entrar
+incapaz entrar
+fallo entrar
+error entrar
+problema entrar
+no permite entrar
+no deja entrar
+acceso denegado
+acceso rechazado
+acceso bloqueado
+acceso restringido
+acceso inhabilitado
+ingreso denegado
+ingreso rechazado
+ingreso bloqueado
+ingreso restringido
+ingreso inhabilitado
+
+##CONSTANCIAS
+###NO LLEGA
+no llega
+no recibe
+ausente
+faltante
+perdido
+extraviado
+omitido
+sin recibir
+no llega comprobante
+no llega constancia
+no llega voucher
+no llega recibo
+no llega factura
+no llega boleta
+no llega confirmacion
+no llega notificacion
+no llega aviso
+no llega alerta
+no llega mensaje
+no llega email
+no llega correo
+no llega sms
+no recibo comprobante
+no recibo constancia
+no recibo voucher
+no recibo recibo
+no recibo factura
+no recibo boleta
+no recibo confirmacion
+no recibo notificacion
+no recibo aviso
+no recibo alerta
+no recibo mensaje
+no recibo email
+no recibo correo
+no recibo sms
+comprobante ausente
+constancia ausente
+voucher ausente
+recibo ausente
+factura ausente
+boleta ausente
+confirmacion ausente
+notificacion ausente
+aviso ausente
+alerta ausente
+mensaje ausente
+email ausente
+correo ausente
+sms ausente
+
+###DEMORA 
+demora
+tarda
+retraso
+espera
+lento
+dilacion
+retencion
+tardanza
+demora comprobante
+demora constancia
+demora voucher
+demora recibo
+demora factura
+demora boleta
+demora confirmacion
+demora notificacion
+demora aviso
+demora alerta
+demora mensaje
+demora email
+demora correo
+demora sms
+tarda comprobante
+tarda constancia
+tarda voucher
+tarda recibo
+tarda factura
+tarda boleta
+tarda confirmacion
+tarda notificacion
+tarda aviso
+tarda alerta
+tarda mensaje
+tarda email
+tarda correo
+tarda sms
+retraso comprobante
+retraso constancia
+retraso voucher
+retraso recibo
+retraso factura
+retraso boleta
+retraso confirmacion
+retraso notificacion
+retraso aviso
+retraso alerta
+retraso mensaje
+retraso email
+retraso correo
+retraso sms
+comprobante tarde
+constancia tarde
+voucher tarde
+recibo tarde
+factura tarde
+boleta tarde
+confirmacion tarde
+notificacion tarde
+aviso tarde
+alerta tarde
+mensaje tarde
+email tarde
+correo tarde
+sms tarde
+
+#DISEÑO
+##LOGIN
+###BIOMETRIA
+huella
+facial
+biometrico
+dactilar
+rostro
+iris
+reconocimiento
+identificacion biologica
+huella digital
+huella dactilar
+reconocimiento huella
+autenticacion huella
+validacion huella
+verificacion huella
+facial
+face id
+reconocimiento facial
+autenticacion facial
+validacion facial
+verificacion facial
+rostro
+reconocimiento rostro
+autenticacion rostro
+validacion rostro
+verificacion rostro
+iris
+reconocimiento iris
+autenticacion iris
+validacion iris
+verificacion iris
+biometrico
+biometria
+autenticacion biometrica
+validacion biometrica
+verificacion biometrica
+identificacion biometrica
+dato biometrico
+lectura biometrica
+sensor biometrico
+detector biometrico
+escaner biometrico
+
+#TARIFAS
+##COMISION
+###TRANSFERENCIA
+comision transferencia
+cargo transferencia
+cobro transferencia
+tarifa transferencia
+costo transferencia
+precio transferencia
+pago transferencia
+descuento transferencia
+comision envio
+cargo envio
+cobro envio
+tarifa envio
+costo envio
+precio envio
+pago envio
+descuento envio
+comision movimiento
+cargo movimiento
+cobro movimiento
+tarifa movimiento
+costo movimiento
+precio movimiento
+pago movimiento
+descuento movimiento
+comision operacion
+cargo operacion
+cobro operacion
+tarifa operacion
+costo operacion
+precio operacion
+pago operacion
+descuento operacion
+transferir dinero
+transferir fondos
+transferir saldo
+transferir monto
+transferir cantidad
+transferir recursos
+transferir capital
+transferir importe
+enviar dinero
+enviar fondos
+enviar saldo
+enviar monto
+enviar cantidad
+enviar recursos
+enviar capital
+enviar importe
+
+###TRANSFERENCIA INTERBANCARIA
+comision interbancaria
+cargo interbancario
+cobro interbancario
+tarifa interbancaria
+costo interbancario
+precio interbancario
+pago interbancario
+descuento interbancario
+comision otro banco
+cargo otro banco
+cobro otro banco
+tarifa otro banco
+costo otro banco
+precio otro banco
+pago otro banco
+descuento otro banco
+comision distinto banco
+cargo distinto banco
+cobro distinto banco
+tarifa distinto banco
+costo distinto banco
+precio distinto banco
+pago distinto banco
+descuento distinto banco
+comision otra entidad
+cargo otra entidad
+cobro otra entidad
+tarifa otra entidad
+costo otra entidad
+precio otra entidad
+pago otra entidad
+descuento otra entidad
+transferencia interbancaria
+transferencia interbank
+transferencia otro banco
+transferencia distinto banco
+transferencia otra entidad
+transferencia banco diferente
+transferencia entidad distinta
+transferencia sistema financiero
+
+###PROPIA
+comision interna
+cargo interno
+cobro interno
+tarifa interna
+costo interno
+precio interno
+pago interno
+descuento interno
+comision mismo banco
+cargo mismo banco
+cobro mismo banco
+tarifa mismo banco
+costo mismo banco
+precio mismo banco
+pago mismo banco
+descuento mismo banco
+comision misma entidad
+cargo misma entidad
+cobro misma entidad
+tarifa misma entidad
+costo misma entidad
+precio misma entidad
+pago misma entidad
+descuento misma entidad
+comision entre cuentas
+cargo entre cuentas
+cobro entre cuentas
+tarifa entre cuentas
+costo entre cuentas
+precio entre cuentas
+pago entre cuentas
+descuento entre cuentas
+transferencia interna
+transferencia mismo banco
+transferencia misma entidad
+transferencia entre cuentas
+transferencia propias cuentas
+transferencia cuenta propia
+transferencia misma cuenta
+movimiento interno
+
+###EXTERIOR
+comision internacional
+cargo internacional
+cobro internacional
+tarifa internacional
+costo internacional
+precio internacional
+pago internacional
+descuento internacional
+comision extranjero
+cargo extranjero
+cobro extranjero
+tarifa extranjero
+costo extranjero
+precio extranjero
+pago extranjero
+descuento extranjero
+comision exterior
+cargo exterior
+cobro exterior
+tarifa exterior
+costo exterior
+precio exterior
+pago exterior
+descuento exterior
+comision fuera pais
+cargo fuera pais
+cobro fuera pais
+tarifa fuera pais
+costo fuera pais
+precio fuera pais
+pago fuera pais
+descuento fuera pais
+transferencia internacional
+transferencia extranjero
+transferencia exterior
+transferencia fuera pais
+transferencia global
+transferencia mundial
+transferencia ultramar
+transferencia transnacional
+
+##INTERESES
+###ELEVADOS
+alto interes
+tasa elevada
+interes excesivo
+porcentaje alto
+caro
+costoso
+abusivo
+desproporcionado
+alto interes
+tasa elevada
+interes excesivo
+porcentaje alto
+caro
+costoso
+abusivo
+desproporcionado
+interes elevado
+interes alto
+interes mayor
+interes superior
+interes incrementado
+interes aumentado
+interes subido
+interes creciente
+tasa alta
+tasa mayor
+tasa superior
+tasa incrementada
+tasa aumentada
+tasa subida
+tasa creciente
+porcentaje elevado
+porcentaje mayor
+porcentaje superior
+porcentaje incrementado
+porcentaje aumentado
+porcentaje subido
+porcentaje creciente
+precio elevado
+precio alto
+precio mayor
+precio superior
+precio incrementado
+precio aumentado
+precio subido
+precio creciente
+
+###BAJOS
+bajo interes
+tasa mínima
+interés reducido
+porcentaje bajo
+poca ganancia
+rendimiento pobre
+retorno mínimo
+bajo rendimiento
+bajo interes
+tasa minima
+interes reducido
+porcentaje bajo
+poca ganancia
+rendimiento pobre
+retorno minimo
+bajo rendimiento
+interes bajo
+interes menor
+interes inferior
+interes reducido
+interes disminuido
+interes bajado
+interes decreciente
+tasa baja
+tasa menor
+tasa inferior
+tasa reducida
+tasa disminuida
+tasa bajada
+tasa decreciente
+porcentaje bajo
+porcentaje menor
+porcentaje inferior
+porcentaje reducido
+porcentaje disminuido
+porcentaje bajado
+porcentaje decreciente
+ganancia escasa
+ganancia poca
+ganancia minima
+ganancia reducida
+ganancia disminuida
+ganancia limitada
+ganancia insuficiente
+rendimiento escaso
+rendimiento poco
+rendimiento minimo
+rendimiento reducido
+rendimiento disminuido
+rendimiento limitado
+rendimiento insuficiente
+
+#OTROS
+##AGENCIAS
+###ATENCION
+mala atención
+descortés
+ineficiente
+lento
+desatento
+maltrato
+desinterés
+negligencia
+mala atencion
+descortes
+ineficiente
+lento
+desatento
+maltrato
+desinteres
+negligencia
+atencion deficiente
+atencion mediocre
+atencion inadecuada
+atencion insuficiente
+atencion inoportuna
+atencion impropia
+atencion inadmisible
+atencion pobre
+trato deficiente
+trato mediocre
+trato inadecuado
+trato insuficiente
+trato inoportuno
+trato impropio
+trato inadmisible
+trato pobre
+servicio deficiente
+servicio mediocre
+servicio inadecuado
+servicio insuficiente
+servicio inoportuno
+servicio impropio
+servicio inadmisible
+servicio pobre
+asistencia deficiente
+asistencia mediocre
+asistencia inadecuada
+asistencia insuficiente
+asistencia inoportuna
+asistencia impropia
+asistencia inadmisible
+asistencia pobre
+
+###COBROS
+cobros indebidos
+cargos extra
+tarifas ocultas
+costos adicionales
+comisiones inesperadas
+pagos no informados
+cargos sorpresa
+tarifas abusivas
+cobros indebidos
+cargos extra
+tarifas ocultas
+costos adicionales
+comisiones inesperadas
+pagos no informados
+cargos sorpresa
+tarifas abusivas
+cobro indebido
+cobro excesivo
+cobro injustificado
+cobro inesperado
+cobro sorpresa
+cobro oculto
+cobro adicional
+cobro extra
+cargo indebido
+cargo excesivo
+cargo injustificado
+cargo inesperado
+cargo sorpresa
+cargo oculto
+cargo adicional
+cargo extra
+tarifa indebida
+tarifa excesiva
+tarifa injustificada
+tarifa inesperada
+tarifa sorpresa
+tarifa oculta
+tarifa adicional
+tarifa extra
+
+###ORDEN
+desorden
+caos
+desorganización
+confusión
+falta organización
+mala distribución
+improvisación
+descontrol
+desorden
+caos
+desorganizacion
+confusion
+falta organizacion
+mala distribucion
+improvisacion
+descontrol
+desorganizado
+caotico
+confuso
+desordenado
+desestructurado
+desarreglado
+desorientado
+desalineado
+falta orden
+falta estructura
+falta sistema
+falta metodologia
+falta planificacion
+falta coordinacion
+falta gestion
+falta administracion
+mala organizacion
+mala estructura
+mala sistema
+mala metodologia
+mala planificacion
+mala coordinacion
+mala gestion
+mala administracion
+
+###PROBLEMAS CON EL SISTEMA
+sistema caído
+falla técnica
+problemas informáticos
+error sistema
+caída red
+fallo conexión
+sistema inoperativo
+problemas software
+sistema caido
+falla tecnica
+problemas informaticos
+error sistema
+caida red
+fallo conexion
+sistema inoperativo
+problemas software
+sistema fallando
+sistema averiado
+sistema descompuesto
+sistema defectuoso
+sistema dañado
+sistema malogrado
+sistema roto
+sistema parado
+falla sistema
+falla plataforma
+falla aplicacion
+falla app
+falla programa
+falla software
+falla red
+falla conexion
+error informatico
+error tecnico
+error programacion
+error configuracion
+error procesamiento
+error operacion
+error ejecucion
+error funcionamiento
+
+###TIEMPO DE ESPERA
+espera larga
+demoras
+filas largas
+tiempo excesivo
+lentitud atención
+tardanza
+retrasos
+atención demorada
+espera larga
+demoras
+filas largas
+tiempo excesivo
+lentitud atencion
+tardanza
+retrasos
+atencion demorada
+esperar mucho
+espera excesiva
+espera prolongada
+espera interminable
+espera extensa
+espera lenta
+espera tediosa
+espera agotadora
+cola larga
+cola extensa
+cola infinita
+cola interminable
+cola demorada
+cola tardada
+cola retrasada
+cola lenta
+fila larga
+fila extensa
+fila infinita
+fila interminable
+fila demorada
+fila tardada
+fila retrasada
+fila lenta
+tiempo largo
+tiempo extenso
+tiempo infinito
+tiempo interminable
+tiempo demorado
+tiempo tardado
+tiempo retrasado
+tiempo lento
+
+###CAPACIDAD DE SOLUCION
+no resuelven
+sin solución
+incompetentes
+ineficaces
+inútil
+desatención
+negligencia
+incapaces
+no resuelven
+sin solucion
+incompetentes
+ineficaces
+inutil
+desatencion
+negligencia
+incapaces
+no soluciona
+no arregla
+no corrige
+no repara
+no mejora
+no remedia
+no compone
+no rectifica
+sin resultado
+sin logro
+sin exito
+sin efecto
+sin consecuencia
+sin impacto
+sin beneficio
+sin provecho
+incompetente
+ineficaz
+inepto
+incapaz
+inhabil
+torpe
+inexperto
+novato
+desatento
+negligente
+descuidado
+indolente
+indiferente
+apático
+perezoso
+indolente
+
+###CORDIALIDAD
+descortés
+grosero
+maleducado
+antipático
+desagradable
+hostil
+frío
+despectivo
+descortes
+grosero
+maleducado
+antipatico
+desagradable
+hostil
+frio
+despectivo
+indiferente
+apatico
+insensible
+impersonal
+distante
+inhumano
+impertinente
+altanero
+arrogante
+ofensivo
+brusco
+aspero
+rudo
+irritable
+malhumorado
+malcarado
+odioso
+detestable
+desabrido
+inexpresivo
+indiferente
+displicente
+incomodo
+seco
+tajante
+
+##PRESTAMOS
+###NO HAY CAMPAÑAS
+sin campañas
+no ofertas
+falta promociones
+ausencia créditos
+no préstamos
+sin financiación
+falta opciones
+no ofrecimientos
+sin campanas
+no ofertas
+falta promociones
+ausencia creditos
+no prestamos
+sin financiacion
+falta opciones
+no ofrecimientos
+sin campana prestamos
+sin campana creditos
+sin campana financiamiento
+sin campana financiacion
+no oferta prestamos
+no oferta creditos
+no oferta financiamiento
+no oferta financiacion
+falta promocion prestamos
+falta promocion creditos
+falta promocion financiamiento
+falta promocion financiacion
+ausencia credito
+ausencia prestamos
+ausencia financiamiento
+ausencia financiacion
+no hay prestamos
+no hay creditos
+no hay financiamiento
+no hay financiacion
+no hay creditos
+no hay prestamos
+no hay adelantos
+no hay apoyo
+no hay opciones
+no hay alternativas
+no hay posibilidad
+no hay oportunidad
+
+###NO CALIFICAN
+rechazan
+deniegan
+no califico
+niegan
+no aprueban
+no conceden
+no otorgan
+rechazo
+rechazan
+deniegan
+no califico
+niegan
+no aprueban
+no conceden
+no otorgan
+rechazo
+rechazo prestamo
+rechazo credito
+rechazo financiamiento
+rechazo financiacion
+rechazo adelanto
+rechazo solicitud
+rechazo pedido
+rechazo peticion
+denegacion prestamo
+denegacion credito
+denegacion financiamiento
+denegacion financiacion
+denegacion adelanto
+denegacion solicitud
+denegacion pedido
+denegacion peticion
+no califico prestamo
+no califico credito
+no califico financiamiento
+no califico financiacion
+no califico adelanto
+no califico solicitud
+no califico pedido
+no califico peticion
+no aprobaron prestamo
+no aprobaron credito
+no aprobaron financiamiento
+no aprobaron financiacion
+no aprobaron adelanto
+no aprobaron solicitud
+no aprobaron pedido
+no aprobaron peticion
+
+###PROCESO COMPLICADO
+difícil
+complicado
+engorroso
+burocrático
+largo
+tedioso
+complejo
+obstáculos
+dificil
+complicado
+engorroso
+burocratico
+largo
+tedioso
+complejo
+obstaculos
+proceso dificil
+proceso complicado
+proceso engorroso
+proceso burocratico
+proceso largo
+proceso tedioso
+proceso complejo
+proceso obstaculizado
+tramite dificil
+tramite complicado
+tramite engorroso
+tramite burocratico
+tramite largo
+tramite tedioso
+tramite complejo
+tramite obstaculizado
+solicitud dificil
+solicitud complicada
+solicitud engorrosa
+solicitud burocratica
+solicitud larga
+solicitud tediosa
+solicitud compleja
+solicitud obstaculizada
+requisitos excesivos
+requisitos complejos
+requisitos engorrosos
+requisitos burocraticos
+requisitos largos
+requisitos tediosos
+requisitos complicados
+requisitos obstaculizantes
+
+##CAJERO
+###NO BILLETES CHICOS
+sin billetes pequeños
+faltan denominaciones bajas
+solo billetes grandes
+no hay cambio
+sin denominaciones menores
+falta billetes pequeños
+ausencia billetes chicos
+falta menores denominaciones
+sin billetes chicos
+sin sencillo
+solo grandes
+billetes grandes
+solo denominaciones altas
+solo billetes altos
+no tiene sencillo
+no tiene cambio
+falta cambio
+ausencia cambio
+carencia cambio
+falta billetes veinte
+falta billetes diez
+falta billetes cincuenta
+faltan billetes pequeños
+faltan billetes bajos
+necesito billetes pequeños
+necesito billetes chicos
+necesito sencillo
+necesito cambio
+quiero billetes pequeños
+quiero billetes chicos
+quiero sencillo
+quiero cambio
+billetes menores
+billetes 10
+billetes 20
+billetes 50
+billetes pequeños
+billetes sencillos
+
+###CANTIDAD DISPONIBLE
+sin efectivo
+vacío
+no fondos
+sin dinero
+agotado
+no disponible
+sin stock
+descapitalizado
+sin efectivo
+vacio
+no fondos
+sin dinero
+agotado
+no disponible
+sin stock
+descapitalizado
+cajero sin dinero
+cajero sin efectivo
+cajero vacio
+cajero agotado
+cajero sin fondos
+cajero sin plata
+cajero sin billetes
+cajero descapitalizado
+atm sin dinero
+atm sin efectivo
+atm vacio
+atm agotado
+atm sin fondos
+atm sin plata
+atm sin billetes
+atm descapitalizado
+no tiene dinero
+no tiene efectivo
+no tiene fondos
+no tiene plata
+no tiene billetes
+no hay dinero
+no hay efectivo
+no hay fondos
+no hay plata
+no hay billetes
+se acabo dinero
+se acabo efectivo
+se acabo fondos
+se acabo plata
+se acabo billetes
+no disponible efectivo
+no disponible dinero
+no disponible fondos
+no disponible plata
+no disponible billetes
+
+##INFORMACION
+###TRANSPARENCIA
+opaco
+oculto
+no transparente
+engañoso
+ambiguo
+poco claro
+confuso
+no informativo
+opaco
+oculto
+no transparente
+enganoso
+ambiguo
+poco claro
+confuso
+no informativo
+informacion opaca
+informacion oculta
+informacion no transparente
+informacion enganosa
+informacion ambigua
+informacion poco clara
+informacion confusa
+informacion no informativa
+datos opacos
+datos ocultos
+datos no transparentes
+datos enganosos
+datos ambiguos
+datos poco claros
+datos confusos
+datos no informativos
+detalles opacos
+detalles ocultos
+detalles no transparentes
+detalles enganosos
+detalles ambiguos
+detalles poco claros
+detalles confusos
+detalles no informativos
+explicacion opaca
+explicacion oculta
+explicacion no transparente
+explicacion enganosa
+explicacion ambigua
+explicacion poco clara
+explicacion confusa
+explicacion no informativa
+
+###ERRORES DE INFORMACION
+datos erróneos
+información incorrecta
+equivocación
+inexacto
+falso
+impreciso
+mal informado
+errata
+datos erroneos
+informacion incorrecta
+equivocacion
+inexacto
+falso
+impreciso
+mal informado
+errata
+error datos
+error informacion
+error detalles
+error explicacion
+error instrucciones
+error guia
+error ayuda
+error tutorial
+equivocado datos
+equivocada informacion
+equivocados detalles
+equivocada explicacion
+equivocadas instrucciones
+equivocada guia
+equivocada ayuda
+equivocado tutorial
+impreciso datos
+imprecisa informacion
+imprecisos detalles
+imprecisa explicacion
+imprecisas instrucciones
+imprecisa guia
+imprecisa ayuda
+impreciso tutorial
+falso datos
+falsa informacion
+falsos detalles
+falsa explicacion
+falsas instrucciones
+falsa guia
+falsa ayuda
+falso tutorial
+
+###FALTA DE INFORMACION
+sin información
+incompleto
+insuficiente
+limitado
+escaso
+vago
+parcial
+no detallado
+sin informacion
+incompleto
+insuficiente
+limitado
+escaso
+vago
+parcial
+no detallado
+falta informacion
+falta datos
+falta detalles
+falta explicacion
+falta instrucciones
+falta guia
+falta ayuda
+falta tutorial
+ausencia informacion
+ausencia datos
+ausencia detalles
+ausencia explicacion
+ausencia instrucciones
+ausencia guia
+ausencia ayuda
+ausencia tutorial
+carencia informacion
+carencia datos
+carencia detalles
+carencia explicacion
+carencia instrucciones
+carencia guia
+carencia ayuda
+carencia tutorial
+insuficiente informacion
+insuficientes datos
+insuficientes detalles
+insuficiente explicacion
+insuficientes instrucciones
+insuficiente guia
+insuficiente ayuda
+insuficiente tutorial
+
+##NUEVAS FUNCIONALIDADES
+###BIOMETRIA
+huella
+facial
+biométrico
+dactilar
+rostro
+iris
+reconocimiento
+identificación biológica
+huella digital
+huella dactilar
+reconocimiento huella
+autenticacion huella
+validacion huella
+verificacion huella
+facial
+face id
+reconocimiento facial
+autenticacion facial
+validacion facial
+verificacion facial
+rostro
+reconocimiento rostro
+autenticacion rostro
+validacion rostro
+verificacion rostro
+iris
+reconocimiento iris
+autenticacion iris
+validacion iris
+verificacion iris
+biometrico
+biometria
+autenticacion biometrica
+validacion biometrica
+verificacion biometrica
+identificacion biometrica
+dato biometrico
+lectura biometrica
+sensor biometrico
+detector biometrico
+escaner biometrico
+
+###ORGANIZACIÓN FAVORITOS
+organizar favoritos
+ordenar preferidos
+personalizar frecuentes
+configurar destacados
+adaptar favoritos
+priorizar contactos
+ajustar frecuentes
+estructurar preferidos
+organizar favoritos
+ordenar preferidos
+personalizar frecuentes
+configurar destacados
+adaptar favoritos
+priorizar contactos
+ajustar frecuentes
+estructurar preferidos
+organizar cuentas
+organizar contactos
+organizar beneficiarios
+organizar destinatarios
+organizar transferencias
+organizar pagos
+organizar servicios
+organizar operaciones
+ordenar cuentas
+ordenar contactos
+ordenar beneficiarios
+ordenar destinatarios
+ordenar transferencias
+ordenar pagos
+ordenar servicios
+ordenar operaciones
+personalizar cuentas
+personalizar contactos
+personalizar beneficiarios
+personalizar destinatarios
+personalizar transferencias
+personalizar pagos
+personalizar servicios
+personalizar operaciones
+configurar cuentas
+configurar contactos
+configurar beneficiarios
+configurar destinatarios
+configurar transferencias
+configurar pagos
+configurar servicios
+configurar operaciones
+
+##CENTRO DE CONTACTO
+###BOT
+bot inútil
+máquina responde
+asistente virtual
+no entiende
+automatizado
+robot
+chatbot
+asistencia artificial
+bot inutil
+maquina responde
+asistente virtual
+no entiende
+automatizado
+robot
+chatbot
+asistencia artificial
+bot no entiende
+bot no comprende
+bot no ayuda
+bot no sirve
+bot ineficiente
+bot deficiente
+bot limitado
+bot torpe
+asistente virtual no entiende
+asistente virtual no comprende
+asistente virtual no ayuda
+asistente virtual no sirve
+asistente virtual ineficiente
+asistente virtual deficiente
+asistente virtual limitado
+asistente virtual torpe
+inteligencia artificial no entiende
+inteligencia artificial no comprende
+inteligencia artificial no ayuda
+inteligencia artificial no sirve
+inteligencia artificial ineficiente
+inteligencia artificial deficiente
+inteligencia artificial limitada
+inteligencia artificial torpe
+chatbot no entiende
+chatbot no comprende
+chatbot no ayuda
+chatbot no sirve
+chatbot ineficiente
+chatbot deficiente
+chatbot limitado
+chatbot torpe
+
+###LLAMADAS
+llamada cortada
+espera telefónica
+transferencia llamada
+sin respuesta
+espera larga
+no contestan
+desvío llamada
+comunicación interrumpida
+llamada cortada
+espera telefonica
+transferencia llamada
+sin respuesta
+espera larga
+no contestan
+desvio llamada
+comunicacion interrumpida
+llamada interrumpida
+llamada desconectada
+llamada caida
+llamada finalizada
+llamada terminada
+llamada colgada
+llamada perdida
+llamada fallida
+espera telefonica
+espera prolongada
+espera extensa
+espera interminable
+espera agotadora
+espera tediosa
+espera frustrante
+espera desesperante
+transferencia llamada
+transferencia operador
+transferencia agente
+transferencia asistente
+transferencia atencion
+transferencia servicio
+transferencia departamento
+transferencia area
+sin respuesta
+sin contestar
+sin atender
+sin resolver
+sin solucionar
+sin asistir
+sin auxiliar
+sin socorrer
+espera larga
+espera prolongada
+espera extensa
+espera interminable
+espera agotadora
+espera tediosa
+espera frustrante
+espera desesperante
+
+###GRABADORA
+grabación automática
+opciones grabadas
+mensaje automático
+sistema automatizado
+grabación repetitiva
+voz pregrabada
+opciones automáticas
+sistema grabado
+grabacion automatica
+opciones grabadas
+mensaje automatico
+sistema automatizado
+grabacion repetitiva
+voz pregrabada
+opciones automaticas
+sistema grabado
+grabacion
+grabado
+pregrabado
+robotizado
+mensaje grabado
+mensaje automatico
+mensaje pregrabado
+mensaje sistema
+mensaje maquina
+mensaje robot
+mensaje artificial
+mensaje sintetizado
+opciones grabadas
+opciones automaticas
+opciones pregrabadas
+opciones sistema
+opciones maquina
+opciones robot
+opciones artificiales
+opciones sintetizadas
+voz robotica
+voz artificial
+voz sintetica
+voz maquina
+voz automatizada
+voz mecanizada
+voz programada
+voz computarizada

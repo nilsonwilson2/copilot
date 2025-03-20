@@ -1,0 +1,351 @@
+#FUNCIONALIDAD
+atencion presencial
+atencion personal
+atencion fisica
+servicio presencial
+servicio personal
+mala atencion
+buena atencion
+pesima atencion
+excelente atencion
+empleado
+funcionario
+personal
+colaborador
+staff
+trabajador
+atender
+atendio
+atendieron
+atendido
+atenderme
+ventanilla
+plataforma presencial
+cola
+quiero la solucion de mi dinero gracias
+cobrar menos comision
+no siento que ofrecen un servicio personalizado
+mas eficiente en los procesos mucho protocolos
+no me pudieron ayudar para poder activar la banca para la compra por internet
+bajar los intereses al cliente
+no recibi ayuda
+me bloquearon tarjeta
+me bloquearon cuenta
+
+llamada
+atencion en plataforma
+mejorar interfaz en celulares
+mejorar la interfaz de la app
+el cobro de mantenimiento
+no cobrar el seguro
+agreguen acceso biometrico al app
+no recomiendo a nadie
+escucha activa
+dia de abrir
+no tienen billetes chicos
+no billetes chicos
+boucher los cajeros automaticos
+asesor
+soporte
+robot que atiende
+robot atiende
+atiende
+depositos
+fila
+tiempo espera
+demora atencion
+atencion lenta
+turno
+ticket
+numeracion
+orden llegada
+horarios
+dias atencion
+horas atencion
+jornada
+agencia
+oficina
+sucursal
+sede
+filial
+tienda
+local
+establecimiento
+fisica
+asesor presencial
+ejecutivo presencial
+representante presencial
+amable
+cordial
+descortes
+empatico
+grosero
+malcriado
+maltrato
+instalacion
+modulo
+centro
+credito hipotecario
+credito vehicular
+credito mype
+credito negocio
+plazo fijo
+apertura cuenta fisica
+prestamo
+credito
+financiamiento
+deuda
+personal
+formatos fisicos
+
+#SEGURIDAD
+
+no recomiendo a nadie
+escucha activa
+dia de abrir
+no tienen billetes chicos
+no billetes chicos
+boucher los cajeros automaticos
+asesor
+soporte
+robot que atiende
+robot atiende
+atiende
+depositos
+atencion presencial
+atencion personal
+atencion fisica
+servicio presencial
+servicio personal
+mala atencion
+buena atencion
+pesima atencion
+excelente atencion
+empleado
+funcionario
+personal
+colaborador
+staff
+trabajador
+atender
+atendio
+atendieron
+atendido
+atenderme
+ventanilla
+plataforma presencial
+cola
+fila
+tiempo espera
+demora atencion
+atencion lenta
+turno
+ticket
+numeracion
+orden llegada
+horarios
+dias atencion
+horas atencion
+jornada
+agencia
+oficina
+sucursal
+sede
+filial
+tienda
+local
+establecimiento
+fisica
+asesor presencial
+ejecutivo presencial
+representante presencial
+amable
+cordial
+descortes
+empatico
+grosero
+malcriado
+maltrato
+instalacion
+modulo
+centro
+credito hipotecario
+credito vehicular
+credito mype
+credito negocio
+plazo fijo
+apertura cuenta fisica
+prestamo
+credito
+financiamiento
+deuda
+personal
+formatos fisicos
+
+#DISEÑO
+
+
+no recomiendo a nadie
+escucha activa
+dia de abrir
+no tienen billetes chicos
+no billetes chicos
+boucher los cajeros automaticos
+asesor
+soporte
+robot que atiende
+robot atiende
+atiende
+depositos
+atencion presencial
+atencion personal
+atencion fisica
+servicio presencial
+servicio personal
+mala atencion
+buena atencion
+pesima atencion
+excelente atencion
+empleado
+funcionario
+personal
+colaborador
+staff
+trabajador
+atender
+atendio
+atendieron
+atendido
+atenderme
+ventanilla
+plataforma presencial
+cola
+fila
+tiempo espera
+demora atencion
+atencion lenta
+turno
+ticket
+numeracion
+orden llegada
+horarios
+dias atencion
+horas atencion
+jornada
+agencia
+oficina
+sucursal
+sede
+filial
+tienda
+local
+establecimiento
+fisica
+asesor presencial
+ejecutivo presencial
+representante presencial
+amable
+cordial
+descortes
+empatico
+grosero
+malcriado
+maltrato
+instalacion
+modulo
+centro
+credito hipotecario
+credito vehicular
+credito mype
+credito negocio
+plazo fijo
+apertura cuenta fisica
+prestamo
+credito
+financiamiento
+deuda
+personal
+formatos fisicos
+
+#TARIFAS
+no recomiendo a nadie
+escucha activa
+dia de abrir
+no tienen billetes chicos
+no billetes chicos
+boucher los cajeros automaticos
+asesor
+soporte
+robot que atiende
+robot atiende
+atiende
+depositos
+atencion presencial
+atencion personal
+atencion fisica
+servicio presencial
+servicio personal
+mala atencion
+buena atencion
+pesima atencion
+excelente atencion
+empleado
+funcionario
+personal
+colaborador
+staff
+trabajador
+atender
+atendio
+atendieron
+atendido
+atenderme
+ventanilla
+plataforma presencial
+cola
+fila
+tiempo espera
+demora atencion
+atencion lenta
+turno
+ticket
+numeracion
+orden llegada
+horarios
+dias atencion
+horas atencion
+jornada
+agencia
+oficina
+sucursal
+sede
+filial
+tienda
+local
+establecimiento
+fisica
+asesor presencial
+ejecutivo presencial
+representante presencial
+amable
+cordial
+descortes
+empatico
+grosero
+malcriado
+maltrato
+instalacion
+modulo
+centro
+credito hipotecario
+credito vehicular
+credito mype
+credito negocio
+plazo fijo
+apertura cuenta fisica
+prestamo
+credito
+financiamiento
+deuda
+personal
+formatos fisicos

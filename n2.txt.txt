@@ -1,0 +1,2645 @@
+#FUNCIONALIDAD
+
+##TOKEN
+token
+token digital
+tokem
+toque digital
+identificador
+activación
+clave dinámica
+autenticación
+acceso
+credenciales
+toquen
+tokken
+activar token
+renovar token
+configurar token
+sincronizar token
+actualizar token
+expirado
+vencido
+caduco
+numero token
+codigo token
+clave token
+desbloquear token
+token bloqueado
+token fisico
+token virtual
+token app
+clave dinamica
+clave aleatoria
+clave seguridad
+autenticacion token
+verificacion token
+validacion token
+confirmacion token
+seguridad token
+problema token
+error token
+falla token
+token no funciona
+token inestable
+token fallido
+token rechazado
+token expirado
+token vencido
+token desactivado
+renovacion token
+expiracion token
+vencimiento token
+token dispositivo
+token biometria
+token digital
+configurar dinamico
+generar token
+solicitar token
+
+##INESTABILIDAD
+inestabilidad
+caída
+fallas
+errores
+intermitente
+no disponible
+interrupciones
+mantenimiento
+lentitud
+sistema
+cae
+se cuelga
+colapsa
+interrumpe
+inestable
+falla
+error
+sistema caido
+conexion perdida
+sin servicio
+fuera servicio
+mantenimiento
+actualizacion
+reparacion
+lento
+demorado
+tarda
+lenteja
+pesado
+congestionado
+sobrecargado
+demora
+despacio
+lentitud
+ralentizado
+pausado
+interrumpido
+entrecortado
+impredecible
+aleatorio
+variable
+incierto
+indeterminado
+inconsistente
+fluctuante
+errático
+volátil
+cambiante
+inestable
+irregular
+momentáneo
+temporal
+ocasional
+esporádico
+periódico
+cíclico
+recurrente
+app lenta
+aplicacion lenta
+sistema lento
+procesamiento lento
+respuesta lenta
+carga lenta
+demora excesiva
+tiempo espera
+tiempo carga
+
+##OPERACIONES
+cobro doble
+operaciones
+transacciones
+transferencias
+pagos
+movimientos
+servicios
+consultas
+trámites
+ejecutar
+realizar
+transferir
+enviar dinero
+enviar plata
+transferencia bcp
+transferencia interbancaria
+transferencia externa
+transferencia a terceros
+pagar servicios
+pago recibos
+pago facturas
+pago tarjetas
+pago creditos
+pago prestamos
+deposito
+retiro
+yape
+yapear
+envio
+recepcion
+consultar saldo
+revisar movimientos
+ver operaciones
+historico
+historial
+ultimos movimientos
+trunca
+error
+falla
+sale error
+no procede
+rechazado
+denegado
+fallido
+truncado
+interrumpido
+cancelado
+abortado
+demora
+tarda
+lenta
+retraso
+espera
+no inmediato
+transaccion fallida
+pago rechazado
+transferencia negada
+operacion denegada
+envio fallido
+abono rechazado
+movimiento denegado
+servicio no disponible
+servicio interrumpido
+proceso incompleto
+proceso truncado
+proceso fallido
+pago servicios
+pago facturas
+consulta movimientos
+consulta saldos
+opciones pago
+opciones transferencia
+enviar dinero
+enviar fondos
+importar dinero
+exportar dinero
+operaciones móviles
+servicios digitales
+transacciones digitales
+pagos digitales
+transferencias programadas
+transferencias automáticas
+transferencias recurrentes
+pagos automáticos
+pagos recurrentes
+pagos programados
+
+##LOGIN
+huella
+facial
+biometrico
+dactilar
+rostro
+iris
+reconocimiento
+identificacion biologica
+huella digital
+huella dactilar
+reconocimiento huella
+autenticacion huella
+validacion huella
+verificacion huella
+facial
+face id
+reconocimiento facial
+autenticacion facial
+validacion facial
+verificacion facial
+rostro
+reconocimiento rostro
+autenticacion rostro
+validacion rostro
+verificacion rostro
+iris
+reconocimiento iris
+autenticacion iris
+validacion iris
+verificacion iris
+biometrico
+biometria
+autenticacion biometrica
+validacion biometrica
+verificacion biometrica
+identificacion biometrica
+dato biometrico
+lectura biometrica
+sensor biometrico
+detector biometrico
+escaner biometrico
+biometrico
+biometria
+face id
+huella
+login
+ingreso
+acceso
+autenticación
+entrar
+iniciar sesión
+contraseña
+credenciales
+ingresar
+acceder
+entrar
+iniciar
+password
+contrasena
+clave
+pin
+usuario
+user
+ID
+codigo
+bloqueo
+error acceso
+credenciales incorrectas
+acceso denegado
+acceso bloqueado
+huella digital
+face id
+reconocimiento facial
+no reconoce
+no identifica
+no valida
+no permite entrar
+ingresar app
+inicio sesion
+ingreso sistema
+autenticar usuario
+validar usuario
+verificar identidad
+confirmar identidad
+inicio fallido
+ingreso fallido
+acceso fallido
+contraseña incorrecta
+usuario incorrecto
+datos acceso
+credenciales acceso
+bloqueo por intentos
+intentos fallidos
+recuperar acceso
+recuperar contraseña
+olvidé contraseña
+restaurar acceso
+problemas ingreso
+no puedo ingresar
+no logro entrar
+no puedo acceder
+error inicio
+error login
+error ingreso
+validación usuario
+validación credenciales
+validación biométrica
+
+##CONSTANCIAS
+constancias
+comprobantes
+notificaciones
+confirmaciones
+recibos
+vouchers
+certificados
+correos
+comprobante
+recibo
+constancia
+voucher
+boleta
+factura
+correo
+email
+SMS
+mensaje
+alerta
+aviso
+notificacion
+confirmacion
+constancia operacion
+recibo operacion
+comprobante transferencia
+comprobante pago
+voucher digital
+constancia digital
+recibo electronico
+correo confirmacion
+sms confirmacion
+notificacion operacion
+notificaciones push
+alertas
+no llega
+demora
+tarde
+ausente
+pendiente
+sin recibir
+aviso operación
+comprobante transacción
+constancia movimiento
+certificado operación
+confirmación pago
+confirmación transferencia
+confirmación depósito
+confirmación retiro
+voucher imprimible
+voucher electrónico
+comprobante descargable
+constancia archivable
+evidencia transacción
+prueba operación
+registro operación
+registro movimiento
+verificación operación
+constancia tributaria
+documento operación
+constancia fiscal
+voucher formal
+comprobante legal
+voucher tributario
+constancia contable
+
+##NO PERMITE INSTALAR APP
+instalación
+app store
+google play
+descarga
+versión
+actualización
+incompatible
+requisitos
+espacio
+descargar
+instalar
+bajar
+actualizar
+version
+google play
+app store
+apple store
+play store
+tienda aplicaciones
+actualizacion
+compatibilidad
+requisitos
+espacio
+memoria
+smartphone
+dispositivo
+celular
+telefono
+sistema
+android
+ios
+windows
+huawei
+xiaomi
+samsung
+iphone
+error instalación
+falla instalación
+problema descarga
+problema actualización
+incompatibilidad sistema
+incompatibilidad versión
+incompatibilidad dispositivo
+falta espacio
+memoria insuficiente
+almacenamiento insuficiente
+capacidad insuficiente
+dispositivo incompatible
+smartphone incompatible
+móvil incompatible
+celular incompatible
+sistema operativo incompatible
+versión sistema incompatible
+actualización requerida
+sistema desactualizado
+restricciones dispositivo
+restricciones región
+restricciones país
+no disponible región
+no disponible país
+bloqueo instalación
+rechazo instalación
+error descarga
+error actualización
+
+##NOTIFICACIONES
+notificaciones
+alertas
+avisos
+mensajes
+comunicaciones
+correos
+SMS
+informar
+notificaciones
+alertas
+avisos
+mensajes
+comunicaciones
+sms
+correo
+email
+whatsapp
+confirmacion
+informacion
+aviso
+advertencia
+push notification
+notificaciones push
+alerta movimiento
+alerta operacion
+confirmacion operacion
+confirmacion pago
+confirmacion transferencia
+aviso cargo
+no llegan
+retrasadas
+ausentes
+faltantes
+desactivadas
+problemas notificaciones
+configuracion notificaciones
+alarmas
+alertas movimientos
+avisos transacciones
+mensajes operaciones
+comunicados sistema
+información usuario
+notificaciones inmediatas
+notificaciones retrasadas
+alertas seguridad
+alertas actividad
+mensajes informativos
+comunicación directa
+recordatorios vencimiento
+recordatorios pago
+avisos importantes
+mensajes urgentes
+notificaciones prioritarias
+notificaciones especiales
+notificaciones personalizada
+notificaciones configurables
+frecuencia notificaciones
+tipos notificaciones
+canales notificaciones
+medios notificación
+opciones notificación
+
+##LIMITE TRANSACCIONAL
+límite
+monto máximo
+tope
+restricción
+cantidad permitida
+incrementar
+ampliar
+reducir
+cuota
+limite
+tope
+maximo
+restriccion
+cuota
+permitido
+sobrepasa
+excede
+limita
+restringe
+incrementar limite
+aumentar limite
+ampliar limite
+expandir limite
+reducir limite
+disminuir limite
+bajar limite
+monto maximo
+cantidad maxima
+restriccion monto
+limite transferencia
+limite yape
+limite pago
+limite diario
+limite mensual
+limite operacion
+cantidad máxima
+tope transferencia
+tope operaciones
+tope transacciones
+tope pagos
+tope envíos
+límite envío
+límite recepción
+límite retiro
+monto autorizado
+cantidad autorizada
+valor máximo
+restricción operativa
+restricción monto
+restricción cantidad
+restricción valor
+sobrelímite
+exceso límite
+superación límite
+limitación operativa
+limitación transaccional
+límite insuficiente
+límite bajo
+límite pequeño
+límite reducido
+
+##DETALLE DE MOVIMIENTO
+detalle
+movimientos
+transacciones
+historial
+registro
+extracto
+reporte
+actividad
+flujo
+detalle
+movimiento
+transaccion
+operacion
+historial
+registro
+estado cuenta
+extracto
+reporte
+entradas
+salidas
+depositos
+retiros
+transferencias
+pagos
+creditos
+debitos
+cargos
+abonos
+envios
+recepciones
+saldos
+balance
+descripcion operacion
+nombre
+beneficiario
+remitente
+origen
+destino
+fecha
+hora
+monto
+cantidad
+concepto
+descripcion
+referencia
+detallado
+especifico
+completo
+informacion
+datos
+registro cronológico
+historial operativo
+secuencia movimientos
+listado actividades
+relación ingresos
+relación egresos
+detalle descriptivo
+información detallada
+descripción operativa
+concepto operación
+referencia operación
+motivo movimiento
+justificación movimiento
+evidencia movimiento
+trazabilidad operación
+seguimiento transacción
+rastreo movimiento
+identificación operación
+atributos movimiento
+características transacción
+propiedades movimiento
+especificaciones operación
+particularidades transacción
+detalles específicos
+información completa
+datos integrales
+información exhaustiva
+
+#SEGURIDAD
+
+##MOVIMIENTOS NO RECONOCIDOS
+no reconocidos
+fraudulentos
+desconocidos
+no autorizados
+sin consentimiento
+cargos extraños
+descontar sin permiso
+no realizados
+operaciones ajenas
+cargo desconocido
+cargo extrano
+cargo no autorizado
+movimiento extrano
+movimiento desconocido
+transaccion desconocida
+no reconozco cargo
+no reconozco transferencia
+no reconozco pago
+no reconozco compra
+no reconozco operacion
+sin autorizacion
+sin consentimiento
+sin conocimiento
+sin aprobacion
+sin permiso
+nunca autorize
+nunca hice
+nunca realice
+nunca solicite
+fraude
+estafa
+robo
+engano
+no es mio
+no fui yo
+otra persona
+tercero
+sustraccion
+desaparecio dinero
+dinero robado
+dinero sustraido
+quitan dinero
+sacan dinero
+sacan plata
+desaparecio saldo
+bajo saldo
+disminuyo saldo
+movimiento ajeno
+operación extraña
+transacción sospechosa
+actividad inusual
+cargo irregular
+abono inusual
+depósito extraño
+operación desconocida
+transferencia irregular
+retiro sospechoso
+débito irregular
+crédito inusual
+movimiento anormal
+actividad anómala
+transacción anómala
+movimiento inesperado
+transacción inesperada
+operación inesperada
+actividad no usual
+actividad no habitual
+operaciones sin autorizar
+transacciones sin autorizar
+movimientos sin autorizar
+cargos sin autorizar
+abonos sin autorizar
+retiros sin autorizar
+débitos sin autorizar
+desembolsos sin autorizar
+
+##BLOQUEO DE CUENTA
+bloqueo
+suspensión
+inactivación
+congelamiento
+restricción
+embargo
+inhabilitación
+cierre forzoso
+bloqueado
+suspendido
+inactivo
+congelado
+restringido
+embargado
+inhabilitado
+cerrado
+limitado
+inaccesible
+bloqueo tarjeta
+bloqueo cuenta
+bloqueo app
+bloqueo token
+bloqueo acceso
+suspension temporal
+suspension permanente
+congelacion cuenta
+congelacion fondos
+embargo cuenta
+embargo fondos
+restriccion cuenta
+restriccion operaciones
+inhabilitacion cuenta
+cierre forzoso
+no puedo acceder
+no me deja ingresar
+sin acceso
+perdida acceso
+cuenta retenida
+fondos retenidos
+fondos inmovilizados
+cuenta inmovilizada
+dinero retenido
+dinero inmovilizado
+saldo bloqueado
+cuenta suspendida
+usuario suspendido
+usuario bloqueado
+acceso denegado
+acceso restringido
+operaciones restringidas
+transacciones limitadas
+cuenta limitada
+derechos restringidos
+derechos suspendidos
+privilegios restringidos
+privilegios suspendidos
+restricciones impuestas
+limitaciones impuestas
+impedimentos operativos
+barreras operativas
+
+##FRAUDES
+fraude
+estafa
+engaño
+suplantación
+robo
+phishing
+hackeo
+vulneración
+fraude
+estafa
+engano
+suplantacion
+robo
+clonacion
+phishing
+hacking
+ciberdelito
+ciberataque
+hackeo
+vulneracion
+intrusion
+violacion seguridad
+violacion datos
+violacion cuenta
+suplantacion identidad
+robo identidad
+robo datos
+robo credenciales
+clonacion tarjeta
+copia tarjeta
+tarjeta duplicada
+uso indebido
+uso fraudulento
+operaciones fraudulentas
+transacciones fraudulentas
+pagos fraudulentos
+retiros fraudulentos
+me estafaron
+me robaron
+fui victima
+fui engañado
+perdida dinero
+perdida fondos
+engaño bancario
+estafa digital
+fraude electrónico
+robo digital
+delito cibernético
+manipulación datos
+alteración cuenta
+infiltración seguridad
+violación confidencialidad
+intercepción datos
+apropiación indebida
+apropiación ilícita
+sustracción fraudulenta
+operaciones ilícitas
+transacciones ilícitas
+movimientos irregulares
+actividad maliciosa
+accesos fraudulentos
+uso no autorizado
+manipulación sistema
+alteración registros
+falsificación datos
+falsificación identidad
+falsificación credenciales
+falsificación documentos
+
+##PREVENCION DE FRAUDES
+prevención
+protección
+seguridad
+filtros
+alertas
+autenticación
+validación
+doble factor
+seguridad
+proteccion
+prevencion
+seguridad
+proteccion
+prevencion
+filtros
+validacion
+autenticacion
+verificacion
+doble factor
+segundo factor
+autenticacion dos pasos
+verificacion dos pasos
+confirmacion adicional
+factor adicional
+medida seguridad
+barrera seguridad
+sistema seguridad
+protocolo seguridad
+alertas fraudulentas
+deteccion fraude
+bloqueo preventivo
+bloqueo automatico
+sistema antifraude
+sistema anti-phishing
+seguridad reforzada
+seguridad aumentada
+seguridad mejorada
+medidas preventivas
+sistemas protección
+mecanismos seguridad
+barreras protección
+controles seguridad
+verificación identidad
+validación identidad
+confirmación operaciones
+verificación operaciones
+validación operaciones
+autenticación reforzada
+autenticación robusta
+autenticación adicional
+autenticación múltiple
+verificación múltiple
+validación múltiple
+confirmación múltiple
+alertas seguridad
+notificaciones seguridad
+avisos seguridad
+advertencias seguridad
+detección actividad inusual
+detección operaciones sospechosas
+monitoreo constante
+monitoreo continuo
+monitoreo permanente
+
+##PRIVACIDAD DATOS
+privacidad
+datos personales
+información sensible
+confidencialidad
+protección de información
+acceso no autorizado
+datos biométricos
+seguridad de información
+privacidad
+confidencialidad
+datos personales
+informacion personal
+informacion sensible
+informacion privada
+datos biometricos
+datos bancarios
+datos financieros
+datos cuenta
+proteccion datos
+seguridad datos
+cifrado
+encriptacion
+acceso datos
+uso datos
+manejo datos
+tratamiento datos
+compartir datos
+cesion datos
+filtrado datos
+exposicion datos
+vulneracion datos
+violacion privacidad
+privacidad comprometida
+informacion expuesta
+confidencialidad información
+secreto bancario
+protección confidencialidad
+información protegida
+datos resguardados
+información resguardada
+seguridad información
+privacidad garantizada
+confidencialidad garantizada
+seguridad garantizada
+protección garantizada
+custodia datos
+custodia información
+salvaguarda datos
+salvaguarda información
+preservación confidencialidad
+preservación privacidad
+preservación seguridad
+encriptación datos
+encriptación información
+cifrado datos
+cifrado información
+codificación datos
+codificación información
+blindaje datos
+blindaje información
+protección electrónica
+protección digital
+
+#DISEÑO
+
+##LOGIN
+acceso
+ingresar
+biometría
+huella
+facial
+reconocimiento
+autenticación
+inicio de sesión
+acceso
+ingreso
+login
+iniciar sesion
+entrar
+autenticar
+validar
+verificar
+biometria
+huella
+huella digital
+huella dactilar
+facial
+reconocimiento facial
+face id
+reconocimiento rostro
+iris
+escaneo
+identificacion biometrica
+autenticacion biometrica
+verificacion biometrica
+seguridad biometrica
+inicio rapido
+acceso rapido
+login rapido
+acceso seguro
+ingreso seguro
+inicio seguro
+acceso sin contrasena
+contrasena
+clave
+pin
+codigo
+patron
+inicio sesión
+acceso sistema
+entrada plataforma
+ingreso aplicación
+entrada aplicación
+autenticación usuario
+verificación usuario
+validación usuario
+identificación usuario
+reconocimiento usuario
+login seguro
+inicio seguro
+entrada segura
+ingreso seguro
+acceso protegido
+entrada protegida
+ingreso protegido
+inicio protegido
+logo inicio
+pantalla inicio
+pantalla login
+página acceso
+vista acceso
+interface acceso
+diseño acceso
+configuración acceso
+personalización acceso
+
+##AMIGABLE
+amigable
+muchos protocolos
+mas eficiente procesos
+intuitivo
+fácil
+sencillo
+usable
+comprensible
+accesible
+simple
+intuitivo
+facil
+sencillo
+simple
+comprensible
+claro
+accesible
+amigable
+user friendly
+usable
+practico
+comodo
+eficiente
+directo
+entendible
+logico
+didactico
+facil uso
+facil entender
+facil aprender
+facil manejar
+facil navegar
+sin complicaciones
+sin problemas
+sin dificultad
+amable usuario
+intuitivo usuario
+navegacion sencilla
+uso sencillo
+manejo sencillo
+diseno simple
+diseno claro
+diseno directo
+entendible
+comprensible
+autoexplicativo
+eficiente
+fácil aprendizaje
+navegación intuitiva
+diseño intuitivo
+interfaz intuitiva
+diseño amigable
+interfaz amigable
+diseño accesible
+interfaz accesible
+estructura clara
+organización clara
+disposición clara
+elementos reconocibles
+iconos reconocibles
+símbolos reconocibles
+interacción natural
+comportamiento esperado
+respuesta lógica
+funcionamiento lógico
+operación predecible
+reacción predecible
+comportamiento predecible
+flujo natural
+proceso natural
+recorrido natural
+pasos lógicos
+secuencia lógica
+orden lógico
+diseño asistido
+ayuda contextual
+guía visual
+
+##UBICACION DE FUNCIONALIDADES
+ubicación
+organización
+distribución
+localización
+encontrar
+buscar
+menú
+secciones
+ubicacion
+organizacion
+distribucion
+localizacion
+disposicion
+orden
+estructura
+agrupacion
+posicion
+colocacion
+situacion
+encuentro
+busqueda
+buscar
+encontrar
+localizar
+ubicar
+hallar
+menu
+seccion
+apartado
+area
+zona
+categoria
+agrupacion
+bloque
+panel
+pantalla
+pagina
+vista
+ventana
+interfaz
+seccion
+oculta
+escondida
+dificil encontrar
+no encuentro
+no hallo
+donde esta
+no aparece
+no veo
+organización opciones
+disposición elementos
+distribución funciones
+posición herramientas
+colocación botones
+ubicación iconos
+localización enlaces
+situación controles
+orden opciones
+estructura menú
+jerarquía opciones
+categorización funciones
+agrupación elementos
+clasificación herramientas
+distribución pantalla
+organización interfaz
+disposición pantalla
+distribución interfaz
+navegación estructura
+recorrido interfaz
+mapa aplicación
+mapa sitio
+agrupación lógica
+organización intuitiva
+disposición coherente
+distribución natural
+organización esperada
+disposición esperada
+distribución familiar
+
+##CANTIDAD DE FUNCIONALIDADES
+cantidad
+opciones
+herramientas
+funciones
+características
+utilidades
+posibilidades
+personalizaciones
+cantidad
+numero
+total
+opciones
+herramientas
+funciones
+caracteristicas
+utilidades
+capacidades
+posibilidades
+personalizaciones
+ajustes
+configuraciones
+parametros
+demasiadas
+muchas
+varias
+suficientes
+escasas
+pocas
+limitadas
+falta
+ausencia
+carencia
+necesario
+requerido
+indispensable
+util
+practico
+valioso
+versatil
+completo
+limitado
+basico
+simple
+minimalista
+reducido
+expandible
+mas funciones
+mas opciones
+mas herramientas
+faltan opciones
+faltan funciones
+faltan herramientas
+número funcionalidades
+variedad opciones
+diversidad herramientas
+rango posibilidades
+abanico funciones
+espectro características
+oferta utilidades
+catálogo opciones
+lista funciones
+conjunto herramientas
+colección utilidades
+repertorio funciones
+inventario características
+surtido opciones
+abundancia funciones
+exceso opciones
+saturación funciones
+sobrecarga herramientas
+extensión utilidades
+amplitud características
+profundidad funciones
+multiplicidad opciones
+variedad excesiva
+complejidad innecesaria
+simplicidad excesiva
+minimalismo extremo
+funciones limitadas
+capacidades restringidas
+opciones reducidas
+funcionalidades básicas
+funcionalidades avanzadas
+
+##FAVORITOS
+favoritos
+destacados
+guardados
+frecuentes
+recientes
+preferidos
+accesos rápidos
+marcadores
+favoritos
+destacados
+guardados
+frecuentes
+recientes
+preferidos
+importantes
+relevantes
+prioritarios
+marcados
+senalados
+indicados
+elegidos
+seleccionados
+guardados
+grabados
+almacenados
+registrados
+acceso rapido
+acceso directo
+acceso inmediato
+acceso facil
+acceso prioritario
+organizar favoritos
+gestionar favoritos
+editar favoritos
+agregar favoritos
+quitar favoritos
+ordenar favoritos
+clasificar favoritos
+etiquetar favoritos
+personalizar favoritos
+contactos frecuentes
+destinatarios frecuentes
+operaciones frecuentes
+pagos frecuentes
+transferencias frecuentes
+lista favoritos
+colección favoritos
+conjunto favoritos
+selección favoritos
+grupo favoritos
+categoría favoritos
+sección favoritos
+área favoritos
+espacio favoritos
+pestaña favoritos
+marcación favoritos
+señalización favoritos
+etiquetado favoritos
+clasificación favoritos
+ordenamiento favoritos
+priorización favoritos
+destacados personales
+selecciones personales
+marcas personales
+señales personales
+indicadores personales
+resaltados personales
+contactos guardados
+beneficiarios guardados
+destinatarios guardados
+cuentas guardadas
+operaciones guardadas
+transferencias guardadas
+pagos guardados
+
+#TARIFAS
+
+##COMISION
+comisión
+cargo
+cobro
+tarifa
+costo
+precio
+pago
+descuento
+comision
+cargo
+cobro
+tarifa
+costo
+precio
+pago
+gasto
+importe
+monto
+valor
+descuento
+rebaja
+oferta
+promocion
+porcentaje
+tasa
+alta
+elevada
+excesiva
+exagerada
+abusiva
+injustificada
+alta
+cara
+costosa
+baja
+economica
+barata
+sin costo
+gratis
+sin comision
+sin cargo
+excento
+exonerado
+liberado
+transferencia
+pago
+envio
+operacion
+servicio
+gestion
+mantenimiento
+administracion
+movimiento
+uso
+cuenta
+tasa cobro
+porcentaje comisión
+valor cobro
+monto comisión
+importe cargo
+cantidad cobro
+suma tarifa
+total comisión
+cuantía cargo
+magnitud cobro
+volumen tarifa
+medida comisión
+dimensión cargo
+cuota cobro
+pago adicional
+cargo adicional
+cobro adicional
+tarifa adicional
+costo adicional
+precio adicional
+pago extra
+cargo extra
+cobro extra
+tarifa extra
+costo extra
+precio extra
+comisión operación
+cargo operación
+cobro operación
+tarifa operación
+costo operación
+precio operación
+
+##INTERESES
+intereses
+tasa
+rendimiento
+ganancia
+rédito
+beneficio
+porcentaje
+interes
+tasa
+hipoteca
+tarjeta
+adelanto
+consumo
+hipotecario
+vehicular
+stasa interés
+tipo interés
+porcentaje interés
+valor interés
+monto interés
+cuantía interés
+suma interés
+total interés
+interés acumulado
+interés generado
+interés devengado
+interés producido
+interés cobrado
+interés pagado
+interés calculado
+interés efectivo
+interés nominal
+interés real
+interés anual
+interés mensual
+interés diario
+interés simple
+interés compuesto
+interés fijo
+interés variable
+interés ajustable
+interés modificable
+tasa efectiva
+tasa nominal
+tasa anual
+tasa mensual
+tasa diaria
+rendimiento inversión
+ganancia inversión
+beneficio inversión
+
+##TIPO DE CAMBIO
+tipo de cambio
+conversión
+divisas
+moneda extranjera
+dólares
+euros
+compra venta
+cotización
+tipo cambio
+conversion
+tasa cambio
+valor cambio
+precio cambio
+paridad cambio
+moneda extranjera
+divisas
+dolares
+euros
+compra
+venta
+cotizacion
+valor
+precio
+tasa
+curso
+cambio
+conversion
+intercambio
+favorable
+ventajoso
+beneficioso
+conveniente
+bueno
+desfavorable
+desventajoso
+perjudicial
+inconveniente
+malo
+casa cambio
+cambista
+cambio online
+cambio digital
+cambio banco
+cambio ventanilla
+cambio virtual
+cambio app
+compra dolares
+venta dolares
+conversion moneda
+conversion divisa
+cotización divisa
+valor divisa
+precio divisa
+tasa divisa
+cambio divisa
+conversión divisa
+intercambio divisa
+comercio divisa
+negociación divisa
+transacción divisa
+operación divisa
+compra divisa
+venta divisa
+adquisición divisa
+disposición divisa
+obtención divisa
+entrega divisa
+dólar
+euro
+yen
+libra
+franco
+peso
+real
+yuan
+rupias
+divisas internacionales
+monedas extranjeras
+monedas internacionales
+dinero extranjero
+dinero internacional
+efectivo extranjero
+efectivo internacional
+cambio favorable
+cambio desfavorable
+
+#OTROS
+
+##AGENCIAS
+agencias
+oficinas
+sucursales
+ventanilla
+presencial
+física
+atención directa
+establecimientos
+agencia
+oficina
+sucursal
+sede
+filial
+ventanilla
+presencial
+fisica
+tienda
+local
+establecimiento
+atencion directa
+atencion personal
+atencion fisica
+servicio presencial
+servicio personal
+espera
+cola
+fila
+tiempo espera
+demora
+atencion lenta
+turno
+ticket
+numeracion
+orden llegada
+trabajador
+empleado
+asesor
+ejecutivo
+representante
+personal
+staff
+funcionario
+colaborador
+horarios
+dias atencion
+horas atencion
+jornada
+sucursal bancaria
+oficina bancaria
+agencia bancaria
+sede bancaria
+filial bancaria
+tienda bancaria
+establecimiento bancario
+local bancario
+punto atención
+centro atención
+lugar atención
+espacio atención
+área atención
+instalación bancaria
+dependencia bancaria
+sitio bancario
+edificio bancario
+local comercial
+oficina comercial
+servicio presencial
+atención presencial
+gestión presencial
+trámite presencial
+operación presencial
+asistencia presencial
+soporte presencial
+ayuda presencial
+ventanilla atención
+ventanilla servicio
+ventanilla operaciones
+ventanilla trámites
+ventanilla consultas
+módulo atención
+módulo servicio
+
+##PRESTAMOS
+préstamos
+créditos
+financiamiento
+deuda
+adelanto
+línea crediticia
+intereses
+cuotas
+prestamo
+credito
+financiamiento
+deuda
+adelanto
+linea crediticia
+prestamo personal
+credito personal
+credito consumo
+credito vehicular
+credito hipotecario
+credito estudios
+credito mype
+credito negocio
+adelanto sueldo
+prestamo rapido
+prestamo inmediato
+credito inmediato
+credito rapido
+prestamo facil
+credito facil
+financiamiento rapido
+prestamo preaprobado
+credito preaprobado
+credito aprobado
+requisitos
+condiciones
+aprobacion
+evaluacion
+calificacion
+rechazo
+denegacion
+negacion
+no califica
+no aprueba
+no cumple
+no alcanza
+campana
+promocion
+crédito personal
+crédito consumo
+crédito vehicular
+crédito hipotecario
+crédito estudios
+crédito educativo
+crédito MYPE
+crédito empresarial
+crédito negocios
+préstamo personal
+préstamo consumo
+préstamo vehicular
+préstamo hipotecario
+préstamo estudios
+préstamo educativo
+préstamo MYPE
+préstamo empresarial
+préstamo negocios
+financiación personal
+financiación consumo
+financiación vehicular
+financiación hipotecaria
+financiación estudios
+financiación educativa
+financiación MYPE
+financiación empresarial
+financiación negocios
+adelanto sueldo
+adelanto nómina
+adelanto honorarios
+adelanto pago
+adelanto liquidación
+adelanto efectivo
+adelanto dinero
+adelanto fondos
+
+##CAJERO
+cajero
+ATM
+efectivo
+retiro
+depósito
+billetes
+monedas
+cajero automatico
+atm
+autoservicio
+maquina
+dinero
+efectivo
+billetes
+monedas
+sencillo
+retiro
+extraccion
+deposito
+abono
+saldo
+cajero automático
+ATM bancario
+terminal autoservicio
+dispositivo bancario
+máquina bancaria
+terminal bancaria
+punto autoservicio
+punto retiro
+punto depósito
+punto consulta
+equipo bancario
+unidad bancaria
+sistema autoservicio
+aparato bancario
+terminal transacciones
+equipo transacciones
+máquina retiros
+máquina depósitos
+máquina consultas
+dispositivo retiros
+dispositivo depósitos
+dispositivo consultas
+estación operaciones
+estación bancaria
+punto operaciones
+punto bancario
+servicio 24 horas
+servicio continuo
+servicio permanente
+servicio ininterrumpido
+
+##INFORMACION
+información
+datos
+detalles
+explicaciones
+instrucciones
+guía
+ayuda
+tutoriales
+informacion
+datos
+detalles
+explicaciones
+instrucciones
+guia
+ayuda
+tutorial
+orientacion
+indicacion
+aclaracion
+descripcion
+informacion clara
+informacion precisa
+informacion exacta
+informacion completa
+informacion detallada
+informacion suficiente
+informacion correcta
+informacion adecuada
+informacion oportuna
+informacion actualizada
+informacion puntual
+informacion relevante
+informacion util
+informacion practica
+informacion transparente
+informacion veridica
+informacion verificada
+informacion comprobada
+informacion confiable
+informacion fiable
+datos precisos
+datos exactos
+datos completos
+datos detallados
+datos suficientes
+datos correctos
+datos adecuados
+datos oportunos
+datos actualizados
+datos puntuales
+datos relevantes
+datos útiles
+datos prácticos
+datos transparentes
+datos verídicos
+datos verificados
+datos comprobados
+datos confiables
+datos fiables
+detalles precisos
+detalles exactos
+detalles completos
+detalles suficientes
+detalles correctos
+detalles adecuados
+detalles oportunos
+detalles actualizados
+detalles puntuales
+detalles relevantes
+
+##COMENTARIOS POSITIVOS
+excelente
+bueno
+satisfecho
+conforme
+felicitaciones
+correcto
+eficiente
+recomendable
+excelente
+bueno
+satisfecho
+conforme
+felicitacion
+correcto
+eficiente
+recomendable
+util
+practico
+comodo
+agradable
+sencillo
+intuitivo
+rapido
+veloz
+agil
+funcional
+seguro
+confiable
+estable
+fiable
+efectivo
+productivo
+optimo
+ideal
+maravilloso
+fantastico
+espectacular
+genial
+increible
+grandioso
+excepcional
+sobresaliente
+supremo
+superior
+ejemplar
+magnifico
+impresionante
+extraordinario
+facinante
+satisfactorio
+gratificante
+encantador
+placentero
+buena atención
+buen servicio
+buena experiencia
+buena aplicación
+buena plataforma
+buen funcionamiento
+buena operatividad
+buena usabilidad
+buena disponibilidad
+buena accesibilidad
+buen desempeño
+buen rendimiento
+buena efectividad
+buena eficacia
+buena eficiencia
+buena utilidad
+buena practicidad
+buena comodidad
+buena facilidad
+buena simplicidad
+buena interfaz
+buen diseño
+buena visualización
+buena organización
+buena estructura
+buena disposición
+buena distribución
+buena funcionalidad
+buena operación
+buena transacción
+
+##COMENTARIOS GENERICOS
+todo
+nada
+general
+varios
+múltiple
+global
+completamente
+varios aspectos
+todo
+nada
+general
+varios
+multiple
+global
+completamente
+todos aspectos
+varios aspectos
+algunos aspectos
+ciertos aspectos
+aspectos generales
+partes
+temas
+asuntos
+puntos
+factores
+elementos
+areas
+lugares
+cuestiones
+items
+situaciones
+incidencias
+circunstancias
+eventos
+momentos
+completo
+parcial
+total
+integral
+absoluto
+entero
+universal
+generico
+especifico
+particular
+concreto
+definido
+determinado
+señalado
+indicado
+mencionado
+aspectos generales
+cuestiones generales
+temas generales
+puntos generales
+asuntos generales
+elementos generales
+factores generales
+áreas generales
+situaciones generales
+circunstancias generales
+eventos generales
+incidencias generales
+momentos generales
+partes generales
+lugares generales
+ítem generales
+elementos varios
+factores varios
+áreas varias
+situaciones varias
+circunstancias varias
+eventos varios
+incidencias varias
+momentos varios
+partes varias
+lugares varios
+ítem varios
+cuestiones varias
+temas varios
+puntos varios
+asuntos varios
+
+##NUEVAS FUNCIONALIDADES
+nuevas
+mejoras
+adicionales
+innovaciones
+actualizaciones
+modernas
+desarrollo
+implementación
+nuevas
+mejoras
+adicionales
+innovaciones
+actualizaciones
+modernas
+desarrollo
+implementacion
+caracteristicas
+capacidades
+opciones
+herramientas
+utilidades
+posibilidades
+facilidades
+ventajas
+beneficios
+avances
+progresos
+incorporaciones
+agregados
+anadidos
+extras
+complementos
+suplementos
+ampliaciones
+expansiones
+extensiones
+novedades
+innovaciones
+originalidades
+modernizaciones
+actualizaciones
+renovaciones
+optimizaciones
+perfeccionamientos
+nuevas funciones
+nuevas características
+nuevas capacidades
+nuevas opciones
+nuevas herramientas
+nuevas utilidades
+nuevas posibilidades
+nuevas facilidades
+nuevas ventajas
+nuevas prestaciones
+nuevas cualidades
+nuevas propiedades
+nuevas habilidades
+nuevas aptitudes
+nuevas competencias
+nuevas facultades
+nuevos atributos
+mejoras funcionales
+mejoras operativas
+mejoras técnicas
+mejoras prácticas
+mejoras aplicadas
+mejoras implementadas
+mejoras incorporadas
+mejoras desarrolladas
+mejoras integradas
+mejoras adoptadas
+mejoras adaptadas
+mejoras optimizadas
+mejoras perfeccionadas
+
+##BLOQUEO DE CUENTA
+bloqueo
+suspensión
+embargo
+congelamiento
+restricción
+cierre
+impedimento
+inhabilitación
+bloqueo
+suspension
+embargo
+congelamiento
+restriccion
+cierre
+impedimento
+inhabilitacion
+limitacion
+prohibicion
+paralizacion
+detencion
+bloqueo cuenta
+bloqueo tarjeta
+bloqueo app
+bloqueo token
+bloqueo acceso
+suspension temporal
+suspension permanente
+congelacion cuenta
+congelacion fondos
+embargo cuenta
+embargo fondos
+restriccion cuenta
+restriccion operaciones
+inhabilitacion cuenta
+cierre forzoso
+erroneo
+equivocado
+incorrecto
+indebido
+injustificado
+sin razon
+sin motivo
+sin justificacion
+sin causa
+por error
+no solicitado
+bloqueo preventivo
+bloqueo seguridad
+bloqueo protección
+bloqueo emergencia
+bloqueo verificación
+bloqueo validación
+bloqueo autenticación
+bloqueo identificación
+bloqueo reconocimiento
+bloqueo temporal
+bloqueo permanente
+bloqueo definitivo
+bloqueo parcial
+bloqueo total
+bloqueo completo
+bloqueo absoluto
+bloqueo integral
+suspensión preventiva
+suspensión seguridad
+suspensión protección
+suspensión emergencia
+suspensión verificación
+suspensión validación
+suspensión autenticación
+suspensión identificación
+
+##EMBARGO DE DINERO
+embargo
+retención
+incautación
+confiscación
+apropiación
+secuestro
+inmovilización
+congelación
+embargo
+retencion
+incautacion
+confiscacion
+apropiacion
+secuestro
+inmovilizacion
+congelacion
+retenido
+incautado
+confiscado
+apropiado
+secuestrado
+inmovilizado
+congelado
+bloqueado
+enajenado
+expropiado
+embargo judicial
+embargo legal
+embargo administrativo
+embargo tributario
+retencion judicial
+retencion legal
+orden judicial
+medida judicial
+resolucion judicial
+mandato judicial
+accion judicial
+proceso judicial
+dinero
+fondos
+recursos
+capital
+activos
+cuenta
+saldo
+depositos
+ahorros
+embargo fondos
+embargo dinero
+embargo saldo
+embargo cuenta
+embargo depósitos
+embargo ahorros
+embargo capital
+embargo recursos
+embargo activos
+retención fondos
+retención dinero
+retención saldo
+retención cuenta
+retención depósitos
+retención ahorros
+retención capital
+retención recursos
+retención activos
+incautación fondos
+incautación dinero
+incautación saldo
+incautación cuenta
+incautación depósitos
+incautación ahorros
+incautación capital
+incautación recursos
+incautación activos
+
+##PATRON DE BLOQUEO OBLIGATORIO
+patrón
+bloqueo
+obligatorio
+seguridad
+código
+contraseña
+requerido
+protección
+patron
+bloqueo
+obligatorio
+seguridad
+codigo
+contrasena
+requerido
+proteccion
+patron desbloqueo
+patron celular
+bloqueo pantalla
+bloqueo telefono
+bloqueo dispositivo
+bloqueo celular
+seguridad telefono
+seguridad celular
+seguridad dispositivo
+codigo desbloqueo
+contrasena desbloqueo
+pin desbloqueo
+obligatorio patron
+obligatorio contrasena
+obligatorio pin
+obligatorio codigo
+obligatorio bloqueo
+requerido patron
+requerido contrasena
+requerido pin
+requerido codigo
+requerido bloqueo
+exigido
+impuesto
+forzado
+impuesto
+exigencia
+requisito
+condicion
+restriccion
+patrón seguridad
+patrón protección
+patrón bloqueo
+patrón desbloqueo
+patrón acceso
+patrón ingreso
+patrón entrada
+patrón apertura
+código seguridad
+código protección
+código bloqueo
+código desbloqueo
+código acceso
+código ingreso
+código entrada
+código apertura
+contraseña seguridad
+contraseña protección
+contraseña bloqueo
+contraseña desbloqueo
+contraseña acceso
+contraseña ingreso
+contraseña entrada
+contraseña apertura
+PIN seguridad
+PIN protección
+PIN bloqueo
+PIN desbloqueo
+PIN acceso
+PIN ingreso
+PIN entrada
+PIN apertura
+
+##CENTRO DE CONTACTO
+centro de contacto
+call center
+atención telefónica
+servicio al cliente
+asistencia
+soporte
+ayuda
+comunicación
+centro contacto
+call center
+atencion telefonica
+servicio cliente
+asistencia
+soporte
+ayuda
+comunicacion
+centro llamadas
+centro atencion
+atencion telefonica
+atencion remota
+atencion distancia
+servicio cliente
+servicio usuario
+servicio consumidor
+asistencia telefonica
+asistencia remota
+asistencia distancia
+soporte telefonica
+soporte remoto
+soporte distancia
+ayuda telefonica
+ayuda remota
+ayuda distancia
+comunicacion telefonica
+comunicacion remota
+comunicacion distancia
+linea atencion
+linea ayuda
+linea soporte
+numero atencion
+numero ayuda
+numero soporte
+telefono atencion
+telefono ayuda
+telefono soporte
+centro contacto
+centro atención
+centro comunicación
+centro asistencia
+centro soporte
+centro ayuda
+centro información
+centro consulta
+centro servicio
+centro respuesta
+centro solución
+centro resolución
+call center
+centro llamadas
+centro telefónico
+asistencia telefónica
+asistencia remota
+asistencia virtual
+asistencia digital
+asistencia electrónica
+asistencia online
+asistencia en línea
+soporte telefónico
+soporte remoto
+soporte virtual
+soporte digital
+soporte electrónico
+soporte online
+soporte en línea
+ayuda telefónica
+ayuda remota
+ayuda virtual
+
+##RECLAMOS
+reclamos
+quejas
+denuncias
+disconformidad
+insatisfacción
+protesta
+solicitud
+incidencia
+reclamo
+queja
+denuncia
+disconformidad
+insatisfaccion
+protesta
+solicitud
+incidencia
+inconveniente
+problema
+inconformidad
+malestar
+disgusto
+descontento
+molestia
+fastidio
+incomodidad
+desagrado
+frustracion
+irritacion
+desaprobacion
+rechazo
+objecion
+impugnacion
+oposicion
+disconformidad
+desacuerdo
+negativa
+inconforme
+insatisfecho
+molesto
+disgustado
+enfadado
+enojado
+irritado
+frustrado
+descontento
+desagradado
+disconforme
+decepcionado
+indignado
+no resuelto
+sin solucion
+sin respuesta
+sin atencion
+ignorado
+descuidado
+desatendido
+reclamo formal
+queja formal
+denuncia formal
+disconformidad formal
+insatisfacción formal
+protesta formal
+inconveniente formal
+problema formal
+inconformidad formal
+malestar formal
+disgusto formal
+descontento formal
+molestia formal
+fastidio formal
+incomodidad formal
+desagrado formal
+frustración formal
+irritación formal
+desaprobación formal
+rechazo formal
+objeción formal
+impugnación formal
+oposición formal
+disconformidad formal
+desacuerdo formal
+negativa formal
+reclamación servicio
+reclamación atención
+reclamación producto
+reclamación funcionalidad
+reclamación operación
+reclamación transacción
+
+##PROMOCIONES OFERTAS O SORTEOS
+promociones
+ofertas
+sorteos
+descuentos
+beneficios
+incentivos
+premios
+campañas
+promociones
+ofertas
+sorteos
+descuentos
+beneficios
+incentivos
+premios
+campañas
+oferta
+promocion
+descuento
+rebaja
+ganga
+oportunidad
+reduccion precio
+precio especial
+precio reducido
+regalo
+premio
+obsequio
+gratificacion
+recompensa
+ventaja
+privilegio
+concesion
+derecho
+preeminencia
+prioridad
+preferencia
+sorteo
+rifa
+concurso
+competencia
+juego
+loteria
+campana
+accion
+iniciativa
+movimiento
+actividad
+plan
+programa
+estrategia
+tacticas
+maniobras
+promoción especial
+oferta especial
+sorteo especial
+descuento especial
+beneficio especial
+incentivo especial
+premio especial
+campaña especial
+promoción limitada
+oferta limitada
+sorteo limitado
+descuento limitado
+beneficio limitado
+incentivo limitado
+premio limitado
+campaña limitada
+promoción exclusiva
+oferta exclusiva
+sorteo exclusivo
+descuento exclusivo
+beneficio exclusivo	
+incentivo exclusivo
+premio exclusivo
+campaña exclusiva
+promoción temporal
+oferta temporal
+sorteo temporal
+descuento temporal
+beneficio temporal
+incentivo temporal
+premio temporal
+campaña temporal
